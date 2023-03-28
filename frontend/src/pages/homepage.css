@@ -1,0 +1,14 @@
+.objects {
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+    border-radius: 10px;
+    padding: 0;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 30px;
+    background-color: grey;
+    color: white;
+}
+
